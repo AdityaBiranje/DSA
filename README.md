@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/AdityaBiranje/DSA/tree/master/0125-valid-palindrome) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/AdityaBiranje/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
