@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/AdityaBiranje/DSA/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/AdityaBiranje/DSA/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/AdityaBiranje/DSA/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/AdityaBiranje/DSA/tree/master/0392-is-subsequence) |
 ## Database
 |  |
 | ------- |
@@ -18,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/AdityaBiranje/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/AdityaBiranje/DSA/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/AdityaBiranje/DSA/tree/master/0620-not-boring-movies) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/AdityaBiranje/DSA/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
