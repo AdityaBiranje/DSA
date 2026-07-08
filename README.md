@@ -40,5 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AdityaBiranje/DSA/tree/master/0002-add-two-numbers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AdityaBiranje/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AdityaBiranje/DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AdityaBiranje/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
