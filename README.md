@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/AdityaBiranje/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/AdityaBiranje/DSA/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/AdityaBiranje/DSA/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/AdityaBiranje/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/AdityaBiranje/DSA/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/AdityaBiranje/DSA/tree/master/0392-is-subsequence) |
 ## Database
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AdityaBiranje/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/AdityaBiranje/DSA/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/AdityaBiranje/DSA/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AdityaBiranje/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AdityaBiranje/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
