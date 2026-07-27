@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/AdityaBiranje/DSA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/AdityaBiranje/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/AdityaBiranje/DSA/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/AdityaBiranje/DSA/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/AdityaBiranje/DSA/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/AdityaBiranje/DSA/tree/master/0392-is-subsequence) |
 ## Database
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AdityaBiranje/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AdityaBiranje/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AdityaBiranje/DSA/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/AdityaBiranje/DSA/tree/master/0012-integer-to-roman) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AdityaBiranje/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Linked List
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaBiranje/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/AdityaBiranje/DSA/tree/master/0012-integer-to-roman) |
 ## Sliding Window
 |  |
 | ------- |
