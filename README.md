@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AdityaBiranje/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/AdityaBiranje/DSA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/AdityaBiranje/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AdityaBiranje/DSA/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/AdityaBiranje/DSA/tree/master/0392-is-subsequence) |
@@ -44,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AdityaBiranje/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/AdityaBiranje/DSA/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/AdityaBiranje/DSA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/AdityaBiranje/DSA/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AdityaBiranje/DSA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/AdityaBiranje/DSA/tree/master/0088-merge-sorted-array) |
 ## Math
 |  |
