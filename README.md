@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AdityaBiranje/DSA/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdityaBiranje/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/AdityaBiranje/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AdityaBiranje/DSA/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/AdityaBiranje/DSA/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/AdityaBiranje/DSA/tree/master/0392-is-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AdityaBiranje/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AdityaBiranje/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/AdityaBiranje/DSA/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/AdityaBiranje/DSA/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/AdityaBiranje/DSA/tree/master/0392-is-subsequence) |
 ## Array
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdityaBiranje/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/AdityaBiranje/DSA/tree/master/0022-generate-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AdityaBiranje/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AdityaBiranje/DSA/tree/master/0022-generate-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
