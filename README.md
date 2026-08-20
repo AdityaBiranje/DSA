@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/AdityaBiranje/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AdityaBiranje/DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/AdityaBiranje/DSA/tree/master/0088-merge-sorted-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AdityaBiranje/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AdityaBiranje/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AdityaBiranje/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AdityaBiranje/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
