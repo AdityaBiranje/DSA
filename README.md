@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AdityaBiranje/DSA/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/AdityaBiranje/DSA/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/AdityaBiranje/DSA/tree/master/0392-is-subsequence) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdityaBiranje/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AdityaBiranje/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Database
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaBiranje/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdityaBiranje/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AdityaBiranje/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
