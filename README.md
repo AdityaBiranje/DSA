@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/AdityaBiranje/DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AdityaBiranje/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaBiranje/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/AdityaBiranje/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/AdityaBiranje/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AdityaBiranje/DSA/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/AdityaBiranje/DSA/tree/master/0392-is-subsequence) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/AdityaBiranje/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AdityaBiranje/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaBiranje/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/AdityaBiranje/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/AdityaBiranje/DSA/tree/master/0088-merge-sorted-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AdityaBiranje/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AdityaBiranje/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
